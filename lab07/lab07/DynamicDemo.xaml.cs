@@ -8,6 +8,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace lab07
+    //sinche
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class DynamicDemo : ContentPage
